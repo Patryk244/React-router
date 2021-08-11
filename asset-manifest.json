@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-router/static/css/main.0162174f.chunk.css",
+    "main.js": "/React-router/static/js/main.4efbea52.chunk.js",
+    "main.js.map": "/React-router/static/js/main.4efbea52.chunk.js.map",
+    "runtime-main.js": "/React-router/static/js/runtime-main.721f1410.js",
+    "runtime-main.js.map": "/React-router/static/js/runtime-main.721f1410.js.map",
+    "static/js/2.093f920e.chunk.js": "/React-router/static/js/2.093f920e.chunk.js",
+    "static/js/2.093f920e.chunk.js.map": "/React-router/static/js/2.093f920e.chunk.js.map",
+    "static/js/3.d972f9a9.chunk.js": "/React-router/static/js/3.d972f9a9.chunk.js",
+    "static/js/3.d972f9a9.chunk.js.map": "/React-router/static/js/3.d972f9a9.chunk.js.map",
+    "index.html": "/React-router/index.html",
+    "static/css/main.0162174f.chunk.css.map": "/React-router/static/css/main.0162174f.chunk.css.map",
+    "static/js/2.093f920e.chunk.js.LICENSE.txt": "/React-router/static/js/2.093f920e.chunk.js.LICENSE.txt",
+    "static/media/Singapur.a2389acc.jpg": "/React-router/static/media/Singapur.a2389acc.jpg",
+    "static/media/Warszawa.72c12c1d.jpg": "/React-router/static/media/Warszawa.72c12c1d.jpg",
+    "static/media/los-angeles.d37162cf.jpg": "/React-router/static/media/los-angeles.d37162cf.jpg",
+    "static/media/new-york.fc555cc0.jpg": "/React-router/static/media/new-york.fc555cc0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.721f1410.js",
+    "static/js/2.093f920e.chunk.js",
+    "static/css/main.0162174f.chunk.css",
+    "static/js/main.4efbea52.chunk.js"
+  ]
+}
